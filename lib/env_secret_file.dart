@@ -1,1 +1,1 @@
-const openWeatherAPIKey = "6111ba6cef589bf0f14ef5a6f0288f61";
+const openWeatherAPIKey = "use your opwn key";
